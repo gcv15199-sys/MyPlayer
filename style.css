@@ -12,7 +12,7 @@ body {
 /* == 播放頁面 == */
 
 #playerPage {
-    display: none;
+    display: flex;
     box-sizing: border-box;
     height: 100vh;
     padding: 10px;
