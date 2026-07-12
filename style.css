@@ -6,13 +6,17 @@ body {
 /* == 主要頁面 == */
 
 #homePage {
-    display: none;
+    display: flex;
+    box-sizing: border-box;
+    height: 100vh;
+    padding: 10px;
+    gap: 10px;
 }
 
 /* == 播放頁面 == */
 
 #playerPage {
-    display: flex;
+    display: none;
     box-sizing: border-box;
     height: 100vh;
     padding: 10px;
