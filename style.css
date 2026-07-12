@@ -13,6 +13,11 @@ body {
     gap: 10px;
 }
 
+#searchBar {
+    flex: 1;
+    background-color: rgb(30, 30, 30);
+}
+
 /* == 播放頁面 == */
 
 #playerPage {
