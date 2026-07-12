@@ -25,12 +25,12 @@ body {
 }
 
 #favoriteSection {
-    flex: 7 / 2;
+    flex: 3.5;
     background-color: rgb(30, 30, 30);
 }
 
 #recentSection {
-    flex: 7 / 2;
+    flex: 3.5;
     background-color: rgb(30, 30, 30);
 }
 
