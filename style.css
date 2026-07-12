@@ -18,6 +18,10 @@ body {
     background-color: rgb(30, 30, 30);
 }
 
+#artistSection {
+    flex: 2;
+    background-color: rgb(30, 30, 30);
+}
 /* == 播放頁面 == */
 
 #playerPage {
