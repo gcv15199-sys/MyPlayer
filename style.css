@@ -6,7 +6,7 @@ body {
 /* == 主要頁面 == */
 
 #homePage {
-    display: flex;
+    display: none;
     flex-direction: column;
     box-sizing: border-box;
     height: 100vh;
@@ -37,7 +37,7 @@ body {
 /* == 播放頁面 == */
 
 #playerPage {
-    display: none;
+    display: flex;
     box-sizing: border-box;
     height: 100vh;
     padding: 10px;
@@ -96,6 +96,12 @@ body {
     padding: 10px;
     background-color: rgb(30, 30, 30);
     border-radius: 20px;
+}
+
+/* == 劇院模式 == */
+
+.theater {
+    flex-direction: column;
 }
 
 /* == 作者頁面 == */
